@@ -1,6 +1,6 @@
 # E-commercer (Loja virtual)
 
-![preview](./image/.github/preview.png)
+![preview](./.github/preview.png)
 
 > Projeto E-commercer
 
